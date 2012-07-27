@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="c:\deployment\BunchBallAdmin" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Jhilburn.BunchBallAdmin.pdb" publishTime="06/26/2012 09:45:52" />
+    <file relUrl="Site.Master" publishTime="06/26/2012 09:45:45" />
+    <file relUrl="Account/Web.config" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="Account/Register.aspx" publishTime="05/08/2012 08:20:15" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="05/08/2012 08:20:15" />
+    <file relUrl="AddBunchBallChallenge.aspx" publishTime="06/26/2012 09:40:09" />
+    <file relUrl="App_Data/aspnetdb_log.ldf" publishTime="06/01/2012 10:32:34" />
+    <file relUrl="Account/Login.aspx" publishTime="05/08/2012 08:20:15" />
+    <file relUrl="Web.config" publishTime="06/01/2012 11:46:20" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="05/08/2012 08:20:15" />
+    <file relUrl="App_Data/ASPNETDB.MDF" publishTime="06/01/2012 10:32:34" />
+    <file relUrl="About.aspx" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="finished.aspx" publishTime="06/01/2012 10:52:17" />
+    <file relUrl="Global.asax" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="bin/Jhilburn.BunchBallAdmin.dll" publishTime="06/26/2012 09:45:52" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="AddBunchBallAction.aspx" publishTime="06/01/2012 10:48:43" />
+    <file relUrl="Styles/Site.css" publishTime="05/08/2012 08:20:16" />
+    <file relUrl="Default.aspx" publishTime="06/04/2012 17:34:32" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/08/2012 08:20:16" />
+  </publishProfile>
+</publishData>

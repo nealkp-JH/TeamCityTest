@@ -1,0 +1,5 @@
+c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\bin\Jhilburn.BunchBallAdmin.dll
+c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\bin\Jhilburn.BunchBallAdmin.pdb
+c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\ResolveAssemblyReference.cache
+c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.dll
+c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.pdb
