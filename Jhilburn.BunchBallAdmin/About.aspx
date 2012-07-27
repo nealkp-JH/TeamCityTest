@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here. team city 13.
+        Put content here. team city
     </p>
 </asp:Content>
