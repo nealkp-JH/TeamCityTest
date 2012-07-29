@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here. team city  adf now.asdfasdf - can we get a build to work?
+        Put content here. team city  adf now.asdfasdf - can we get a build to work? finally learned how to add the VCS!!
     </p>
 </asp:Content>
