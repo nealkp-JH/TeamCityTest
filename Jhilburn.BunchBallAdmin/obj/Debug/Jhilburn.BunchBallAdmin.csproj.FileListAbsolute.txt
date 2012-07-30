@@ -3,3 +3,8 @@ c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\bin\Jhilburn.BunchBall
 c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\ResolveAssemblyReference.cache
 c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.dll
 c:\source\Jhilburn.BunchBallAdmin\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.pdb
+C:\Source\TeamCityTest\Jhilburn.BunchBallAdmin\bin\Jhilburn.BunchBallAdmin.dll
+C:\Source\TeamCityTest\Jhilburn.BunchBallAdmin\bin\Jhilburn.BunchBallAdmin.pdb
+C:\Source\TeamCityTest\Jhilburn.BunchBallAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\TeamCityTest\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.dll
+C:\Source\TeamCityTest\Jhilburn.BunchBallAdmin\obj\Debug\Jhilburn.BunchBallAdmin.pdb
