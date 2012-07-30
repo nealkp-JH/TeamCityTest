@@ -10,4 +10,5 @@
     <p>
         Put content here. team city  adf now.asdfasdf - can we get a build to work? finally learned how to add the VCS!!  we restarted a service.
     </p>
+    <p>Demo how GIT works.</p>
 </asp:Content>
