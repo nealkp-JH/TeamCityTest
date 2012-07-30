@@ -185,8 +185,14 @@
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
-  </Target>
-  <Target Name="AfterBuild">
-  </Target>
-  -->
+  </Target>  -->
+<Target Name="AfterBuild">
+   <Message Text="Copying to Deployment Dir:" />
+   <Copy SourceFiles="@(Content)" DestinationFolder="..\XXX\%(Content.RelativeDir)" />
+      <CreateItem Include="$(OutputPath)\*">
+        <Output TaskParameter="Include" ItemName="Binaries"/>
+      </CreateItem>
+   <Copy SourceFiles="@(Binaries)" DestinationFolder="..\XXX\bin" />
+</Target>
+
 </Project>
